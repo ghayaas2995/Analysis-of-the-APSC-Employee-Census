@@ -1,0 +1,2 @@
+# Statistical-Analysis-of-the-APSC-Employee-Census
+The consensuses include demographics, scored questions and response questions regarding the APS employee's experience and feelings in the agency. The goal of the analysis is to find statistical relationships or differences using hypothesis testing, on the survey data of APS of the years 2014 and 2020 to draw conclusions on overall employee satisfaction.
