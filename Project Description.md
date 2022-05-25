@@ -1,5 +1,4 @@
-# DANA---4810---Statistical-Analysis-of-the-APSC-Employee-Census
-The consensuses include demographics, scored questions and response questions regarding the APS employee's experience and feelings in the agency. The goal of the analysis is to find statistical relationships or differences using hypothesis testing, on the survey data of APS of the years 2014 and 2020 to draw conclusions on overall employee satisfaction.
+# Statistical-Analysis-of-the-APSC-Employee-Census
 
 •	Mapped variables of interest common in both year’s censes to analyze their affect on overall employee satisfaction by comparing work pressure on employees, their monetary and non-monetary compensations, and unethical behaviors at workplaces against different demographical factors like, age, sex, and agency size
 
