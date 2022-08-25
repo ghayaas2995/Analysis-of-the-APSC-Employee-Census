@@ -1,6 +1,6 @@
 # Statistical-Analysis-of-the-APSC-Employee-Census
 
-The consensuses include demographics, scored questions and response questions in Likert scale format (1 - Strongly agree to 5 - Strongly disagree) regarding the APS employee's experience and feelings in the agency. The goal of the analysis is to find statistical relationships or differences using A/B testing on the survey data of Australian Public Service Commission for the years 2014 and 2020 to draw conclusions on overall employee satisfaction.
+The consensus include demographics, scored questions and response questions in Likert scale format (1 - Strongly agree to 5 - Strongly disagree) regarding the APS employee's experience and feelings in the agency. The goal of the analysis is to find statistical relationships or differences using A/B testing on the survey data of Australian Public Service Commission for the years 2014 and 2020 to draw conclusions on overall employee satisfaction.
 
 I performed a range of non parametric statistical tests like Mann whitney, Kruskal wallis, Anova tests and pair wise adhoc tests on the survey questionnaire to determine the effect of gender, agency size and several other demographic factors with employee’s work pressure, communication with supervisors, remuneration, non-monetary benefits, and unethical behaviors at work places including discrimination, harassment and bullying. 
 
